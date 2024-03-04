@@ -4,6 +4,7 @@ data/*
 
 report/*
 !report/*.tex
+!report/*.png
 
 **/__pycache__
 **.DS_Store
