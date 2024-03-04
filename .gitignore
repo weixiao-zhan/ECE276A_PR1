@@ -1,0 +1,9 @@
+data/*
+!data/README.md
+**.pt
+
+report/*
+!report/*.tex
+
+**/__pycache__
+**.DS_Store
